@@ -52,7 +52,7 @@ $countUsers = count($message->users);
                         <div class="reply-text"></div>
                     </div>
                     <div class="reply-detach">
-                        <a href="#" id="reply-detach">x</a>
+                        <a href="#" id="reply-detach"><svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.3955 8.09473L7.60352 12.8867" stroke="#B4B4B4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M12.3976 12.8898L7.60156 8.09277" stroke="#B4B4B4" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></path></svg></a>
                     </div>
                 </div>
             </div>

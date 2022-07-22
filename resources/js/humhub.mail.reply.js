@@ -3,7 +3,7 @@ humhub.module('mail.reply', function(module, require, $) {
         messagesRoot: '#mail-conversation-root',
         replyButton: '.rocketmailreply-btn',
         convEntry: '.mail-conversation-entry',
-        convEntryContent: '.mail-conversation-entry .content',
+        convEntryContent: '.mail-conversation-entry .content .message-frame .dropdown .dropdown-menu',
         convEntriesList: '.conversation-entry-list',
         mailAddonRoot: '.rocketcore-mail-addon-container',
         mailAddonRootEntry: '.rocketcore-mail-addon-entry',
